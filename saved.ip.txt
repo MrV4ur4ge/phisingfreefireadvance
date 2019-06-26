@@ -1,0 +1,27 @@
+IP: 202.67.46.29
+ User-Agent: WhatsApp/2.19.150 AIP: 202.67.41.222
+ User-Agent: WhatsApp/2.19.150 AIP: 202.67.41.222
+ User-Agent: Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36IP: 140.0.122.18
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36 OPR/44.6.2246.127414IP: 202.67.41.252
+ User-Agent: WhatsApp/2.19.150 AIP: 223.255.230.24
+ User-Agent: Mozilla/5.0 (Linux; Android 7.1.1; ASUS_X00LD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36IP: 182.0.148.196
+ User-Agent: Mozilla/5.0 (Linux; Android 7.0; 5058 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36IP: 202.80.218.243
+ User-Agent: WhatsApp/2.19.150 AIP: 139.195.174.15
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36 OPR/44.6.2246.127414IP: 139.195.174.15
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36 OPR/44.6.2246.127414IP: 139.195.174.15
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36 OPR/44.6.2246.127414IP: 139.195.174.15
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36 OPR/44.6.2246.127414IP: 139.195.174.15
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36 OPR/44.6.2246.127414IP: 139.195.174.15
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36 OPR/44.6.2246.127414IP: 139.195.174.15
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36 OPR/44.6.2246.127414IP: 112.215.173.217
+ User-Agent: WhatsApp/2.19.17 AIP: 112.215.173.217
+ User-Agent: Mozilla/5.0 (Linux; Android 7.0; M50 STAR Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36IP: 112.215.173.217
+ User-Agent: Mozilla/5.0 (Linux; Android 7.0; M50 STAR Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36IP: 112.215.173.217
+ User-Agent: Mozilla/5.0 (Linux; Android 7.0; M50 STAR Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36IP: 112.215.173.217
+ User-Agent: Mozilla/5.0 (Linux; Android 7.0; M50 STAR Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36IP: 112.215.173.217
+ User-Agent: Mozilla/5.0 (Linux; Android 7.0; M50 STAR Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36IP: 140.213.23.77
+ User-Agent: Mozilla/5.0 (Linux; Android 5.1.1; Redmi Note 3 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.99 Mobile Safari/537.36IP: 140.213.23.77
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; SAMSUNG SM-J710F Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.2 Chrome/67.0.3396.87 Mobile Safari/537.36IP: 202.80.218.243
+ User-Agent: WhatsApp/2.19.150 AIP: 202.80.218.243
+ User-Agent: Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36IP: 223.255.230.57
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36 OPR/44.6.2246.127414
